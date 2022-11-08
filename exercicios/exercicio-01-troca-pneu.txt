@@ -1,0 +1,13 @@
+Faça um algoritmo para efetuar a troca de um pneu fura.
+
+1) Parar em um lugar seguro e sinalizar.
+2) Pegar o estepe.
+3) Pegar o macaco.
+4) Pegar a chave de roda.
+5) Afrouxar os parafusos da roda.
+6) Colocar o macaco debaixo do veiculo.
+7) Levantar o veiculo.
+8) Soltar os parafusos.
+9) Retirar o pneu furado e colocar o outro no lugar.
+10) Apertar os parafusos da roda.
+11) Descer o veiculo do macaco

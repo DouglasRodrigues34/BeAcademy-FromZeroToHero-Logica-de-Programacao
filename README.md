@@ -1,2 +1,1 @@
-# BeAcademy-FromZeroToHero-Logica-de-Programacao
-Aulas de Lógica de programação e Exercícios 
+# BeAcademy FromZeroToHero Lógica de Programação

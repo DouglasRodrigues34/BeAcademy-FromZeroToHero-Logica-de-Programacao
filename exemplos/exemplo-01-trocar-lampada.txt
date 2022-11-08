@@ -1,0 +1,7 @@
+Exemplo: Trocar uma lampada queimada
+
+1) Pegue uma escada;
+2) Posicione-a embaixo da lampada;
+3) Busque uma lampada nova;
+4) Retire a lampada velha;
+5) Coloque a lampada nova;
